@@ -1,0 +1,6 @@
+{
+  "name": "Modular Project CRM",
+  "description": "A React-based CRM and project management system to organize businesses, projects, tasks, contacts, and assets. Built with Tailwind CSS for a modern UI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
